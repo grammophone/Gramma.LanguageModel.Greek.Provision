@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Gramma.LanguageModel.Provision;
-using Gramma.LanguageModel.Provision.EditCommands;
-using Gramma.LanguageModel.Greek.Provision.EditCommands;
+using Grammophone.LanguageModel.Provision;
+using Grammophone.LanguageModel.Provision.EditCommands;
+using Grammophone.LanguageModel.Greek.Provision.EditCommands;
 
-namespace Gramma.LanguageModel.Greek.Provision
+namespace Grammophone.LanguageModel.Greek.Provision
 {
 	/// <summary>
 	/// The syllable services for Ancient Greek.

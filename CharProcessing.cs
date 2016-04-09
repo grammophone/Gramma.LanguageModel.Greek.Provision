@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Globalization;
 
-namespace Gramma.LanguageModel.Greek.Provision
+namespace Grammophone.LanguageModel.Greek.Provision
 {
 	/// <summary>
 	/// Functions for character processing.

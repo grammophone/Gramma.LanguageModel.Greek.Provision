@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Runtime.Serialization;
-using Gramma.LanguageModel.Provision.EditCommands;
+using Grammophone.LanguageModel.Provision.EditCommands;
 
-namespace Gramma.LanguageModel.Greek.Provision.EditCommands
+namespace Grammophone.LanguageModel.Greek.Provision.EditCommands
 {
 	/// <summary>
 	/// Expecting that a syllable consists of vowels followed by an optional consonants suffix,

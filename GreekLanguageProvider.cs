@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Gramma.LanguageModel.Provision;
-using Gramma.LanguageModel.Grammar;
-using Gramma.GenericContentModel;
+using Grammophone.LanguageModel.Provision;
+using Grammophone.LanguageModel.Grammar;
+using Grammophone.GenericContentModel;
 using System.Globalization;
 
-namespace Gramma.LanguageModel.Greek.Provision
+namespace Grammophone.LanguageModel.Greek.Provision
 {
 	/// <summary>
 	/// Provider for the Ancient Greek language.

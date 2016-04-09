@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Gramma.LanguageModel.Provision;
+using Grammophone.LanguageModel.Provision;
 
-namespace Gramma.LanguageModel.Greek.Provision
+namespace Grammophone.LanguageModel.Greek.Provision
 {
 	/// <summary>
 	/// Breaks Ancient Greek sentences into words and punctuation.
