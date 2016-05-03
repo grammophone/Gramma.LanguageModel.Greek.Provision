@@ -118,6 +118,8 @@ namespace Grammophone.LanguageModel.Greek.Provision
 					break;
 			}
 
+			word = word.Replace('˙', '·'); // Correct the type of upper stop.
+
 			if (word.Length <= 3) return word.ChangeVareiaToOkseia();
 
 			if (word.All(c => c == '.')) return "…";
