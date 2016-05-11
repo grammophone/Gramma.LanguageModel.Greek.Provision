@@ -28,17 +28,17 @@ namespace Grammophone.LanguageModel.Greek.Provision
 
 		protected override string GetSentenceDelimiters()
 		{
-			return "\r\n.;:·᾿…!";
+			return "\r\n.;:·…!";
 		}
 
 		protected override string GetWordDelimiters()
 		{
-			return " \r\n.;:·᾿…!-()";
+			return " \r\n.;:·…!-()";
 		}
 
 		protected override string GetPunctuationCharacters()
 		{
-			return ".,;:·᾿…!-()";
+			return ".,;:·…!-()";
 		}
 
 		#endregion
